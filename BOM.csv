@@ -1,0 +1,21 @@
+Item,Category,Component,Quantity,Specification,Purpose,Required
+1,Controller,Arduino Uno,1,ATmega328P,Main rover controller,Yes
+2,Motor Driver,L298N Dual H-Bridge,2,5-35V motor supply,Motor control,Yes
+3,Motor,BO Geared DC Motor,6,Approximately 150 RPM,6-wheel drivetrain,Yes
+4,Wheel,Rover Wheel,6,Compatible with BO motor,Mechanical drive,Yes
+5,Chassis,6-Wheel Rover Chassis,1,Compatible with six BO motors,Mechanical frame,Yes
+6,Radio,FlySky Transmitter,1,2.4 GHz RC,Wireless control,Yes
+7,Radio,FlySky Receiver,1,Minimum 3 channels,Receives RC commands,Yes
+8,Sensor,HC-SR04 Ultrasonic Sensor,1,5V,Distance measurement,Yes
+9,Actuator,Servo Motor,1,5V-compatible,Rotates ultrasonic sensor,Yes
+10,Wireless,HC-05 Bluetooth Module,1,UART,Future wireless telemetry/control,Optional
+11,Battery,3S LiPo Battery,1,11.1V nominal 3000mAh,Main power source,Yes
+12,Power,Power Switch,1,Rated for rover current,Main power isolation,Yes
+13,Prototype,Breadboard,1,Standard solderless breadboard,Logic prototyping,Optional
+14,Wiring,Jumper Wire Set,1,Male/Male Male/Female Female/Female,Signal wiring,Yes
+15,Wiring,Motor Wire,1 set,Suitable gauge for motor current,Motor wiring,Yes
+16,Connector,XT60 or suitable battery connector,1,Matched to battery,Power connection,Yes
+17,Hardware,Motor Mounts,6,Compatible with chassis/motors,Motor mounting,Yes
+18,Hardware,Screws and Standoffs,1 set,Chassis compatible,Mechanical assembly,Yes
+19,Protection,Inline Fuse,1,Selected according to measured current,Electrical protection,Recommended
+20,Power,5V Regulator/BEC,1,Suitable current rating,Servo/logic power,Recommended
