@@ -1,0 +1,61 @@
+# =========================
+# Rover Scout
+# Git Ignore
+# =========================
+
+# Arduino build files
+*.hex
+*.elf
+*.eep
+*.map
+
+# Arduino temporary/build directories
+build/
+.arduino/
+
+# Arduino IDE
+arduino_cache/
+arduino_build/
+
+# VS Code
+.vscode/
+
+# PlatformIO
+.pio/
+.platformio/
+
+# JetBrains
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Logs
+*.log
+
+# Python cache (for future tools/scripts)
+__pycache__/
+*.py[cod]
+
+# Generated data
+data/
+output/
+
+# Large raw media
+*.raw
+*.mov
+*.mp4
+*.avi
+
+# Backup files
+*.old
+*.orig
