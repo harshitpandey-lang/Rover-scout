@@ -19,41 +19,40 @@
 
 ## FlySky Receiver
 
-
 CH1 → D2  → Steering
 CH2 → D4  → Throttle
 CH3 → A2  → Servo
 GND → Arduino GND
 VCC → 5V
 
+##HC-SR04
 
-
-HC-SR04
 VCC  → 5V
 GND  → GND
 TRIG → A0
 ECHO → A1
-Servo
+
+##Servo
+
 Signal → D3
 VCC    → Suitable 5V supply
 GND    → Common GND
-L298N
+
+##L298N
+
 ENA → D5
 IN1 → D7
 IN2 → D8
-
 
 ENB → D6
 IN3 → D9
 IN4 → D10
 
-
 GND → Common GND
 VM  → Motor battery
 
-The left and right motor groups are controlled as two sides of the 6×6 drivetrain.
+##Power
 
-Power
 3S LiPo
    │
    ▼
@@ -62,3 +61,4 @@ Power Switch
    ├──→ L298N motor power
    │
    └──→ Appropriate regulator/BEC → Arduino / Servo / Receiver
+   
