@@ -8,14 +8,13 @@ Item,Category,Component,Quantity,Specification,Purpose,Required
 7,Radio,FlySky Receiver,1,Minimum 3 channels,Receives RC commands,Yes
 8,Sensor,HC-SR04 Ultrasonic Sensor,1,5V,Distance measurement,Yes
 9,Actuator,Servo Motor,1,5V-compatible,Rotates ultrasonic sensor,Yes
-10,Wireless,HC-05 Bluetooth Module,1,UART,Future wireless telemetry/control,Optional
-11,Battery,3S LiPo Battery,1,11.1V nominal 3000mAh,Main power source,Yes
-12,Power,Power Switch,1,Rated for rover current,Main power isolation,Yes
-13,Prototype,Breadboard,1,Standard solderless breadboard,Logic prototyping,Optional
-14,Wiring,Jumper Wire Set,1,Male/Male Male/Female Female/Female,Signal wiring,Yes
-15,Wiring,Motor Wire,1 set,Suitable gauge for motor current,Motor wiring,Yes
-16,Connector,XT60 or suitable battery connector,1,Matched to battery,Power connection,Yes
-17,Hardware,Motor Mounts,6,Compatible with chassis/motors,Motor mounting,Yes
-18,Hardware,Screws and Standoffs,1 set,Chassis compatible,Mechanical assembly,Yes
-19,Protection,Inline Fuse,1,Selected according to measured current,Electrical protection,Recommended
-20,Power,5V Regulator/BEC,1,Suitable current rating,Servo/logic power,Recommended
+10,Battery,3S LiPo Battery,1,11.1V nominal 2200mAh,Main power source,Yes
+11,Power,Power Switch,1,Rated for rover current,Main power isolation,Yes
+12,Prototype,Breadboard,1,Standard solderless breadboard,Logic prototyping,Optional
+13,Wiring,Jumper Wire Set,1,Male/Male Male/Female Female/Female,Signal wiring,Yes
+14,Wiring,Motor Wire,1 set,Suitable gauge for motor current,Motor wiring,Yes
+15,Connector,XT60 or suitable battery connector,1,Matched to battery,Power connection,Yes
+16,Hardware,Motor Mounts,6,Compatible with chassis/motors,Motor mounting,Yes
+17,Hardware,Screws and Standoffs,1 set,Chassis compatible,Mechanical assembly,Yes
+18,Protection,Inline Fuse,1,Selected according to measured current,Electrical protection,Recommended
+
