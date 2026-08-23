@@ -1,3 +1,4 @@
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b8c3375-dbfb-41a5-8163-937b1749368c" />
 
 # 🤖 Rover Scout
 
@@ -277,6 +278,7 @@ A simplified power architecture is:
 The servo can also draw significant current, so its supply should be designed appropriately.
 
 ---
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/24f29fed-b693-49c3-bea0-c7445e5af1ac" />
 
 # ⚠️ Important Hardware Note
 
@@ -677,6 +679,8 @@ for details.
 # 👨‍💻 Project
 
 ## Rover Scout
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/60e34db5-00e2-45a3-a750-f6fa5a8c42ed" />
+
 
 **6×6 RC Exploration Rover**
 
